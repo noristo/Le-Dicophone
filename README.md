@@ -1,5 +1,4 @@
 # Le-Dicophone
-des outils pour l’AL dans leurs dimensions (phonétique et phonologique, phonographémique et orthographique, morphologiques, syntaxiques etc.) 
-Les outils d’ALeM sont destinés à tous les publics et pour tous les contextes scolaires (de la maternelle à l’université), ainsi que tous les profils (migrants alphabétisés ou non). 
+Notre projet « consultation d’un dictionnaire par entrée phonologique » est proposé par le projet ALeM (apprentissage des langues et multimodalité) des laboratoires LIDILEM (UGA) et ICAR (Lyon 2). L’objectif de ce projet est de créer un outil, le Dicophone, pour la consultation d'un dictionnaire par la saisie complète ou partielle des phonèmes qui composent le mot recherché. Cet outil permettra de consulter un dictionnaire sans connaître nécessairement l'orthographe du mot en question. Par exemple, {/diksjionɛʁ/ pour trouver "dictionnaire, dictionnaires" ; /k.t/ pourra donner "compte, conte, côte..." ; /p..abl/ pourra donner "pliable, portable, potable, palpable...", etc.}.
 
 Toutes les bibliothèques utilisées sont incluses dans Python, le script principal est celui de l'interface graphique
